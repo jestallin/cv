@@ -3,56 +3,48 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: James Stallings
+    tagline: Systems Engineer
+    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: jestallin@gmail.com
+    phone: 
+    website:  #do not add http://
+    linkedin: jamesstallings
+    github: jestallin
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
         
     interests:
-      - item: Climbing
+      - item: Gaming
         link:
 
-      - item: Snowboarding
+      - item: Soccer
         link:
 
-      - item: Cooking
-        link:
+      - item: Reading
+        link: https://bit.ly/2NpVNHw
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Geek. Nerd. Techie. 
+      I have loved computers ever since I was young. I can still envision my first computer, a heavy beige, floppy driven, rectangular box stationed under the tiny desk in my room. I would spend countless hours playing games, doing homework, or simply tinkering at the command line.
+      My love of computers continued throughout high school, where I enrolled in every programming class I could. At the University of Massachusetts, I focused on learning how business is infused with technology by earning a business degree specialized in information technology. I extended my IT skills during this time by fixing computers part time for a local retail computer chain. 
+      Over the last 10 years I have had the pleasure of working for several great software companies, big and small, like IBM, Constant Contact, and SoftArtisans. I have helped deliver numerous IT projects spanning multiple engineering disciplines while having fun learning about different technologies along the way.
+      I want to help build and support the next great software company. 
 
 education:
     - degree: MSc in Computer Science
