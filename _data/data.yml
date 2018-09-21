@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: James Stallings
     tagline: Systems Engineer
-    avatar: #profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jestallin@gmail.com
@@ -41,9 +41,13 @@ career-profile:
     title: Career Profile
     summary: |
       Geek. Nerd. Techie. 
+      
       I have loved computers ever since I was young. I can still envision my first computer, a heavy beige, floppy driven, rectangular box stationed under the tiny desk in my room. I would spend countless hours playing games, doing homework, or simply tinkering at the command line.
+     
       My love of computers continued throughout high school, where I enrolled in every programming class I could. At the University of Massachusetts, I focused on learning how business is infused with technology by earning a business degree specialized in information technology. I extended my IT skills during this time by fixing computers part time for a local retail computer chain. 
+      
       Over the last 10 years I have had the pleasure of working for several great software companies, big and small, like IBM, Constant Contact, and SoftArtisans. I have helped deliver numerous IT projects spanning multiple engineering disciplines while having fun learning about different technologies along the way.
+      
       I want to help build and support the next great software company. 
 
 education:
