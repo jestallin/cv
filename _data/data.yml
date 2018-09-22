@@ -28,7 +28,7 @@ sidebar:
         level: Native
         
     interests:
-      - item: Gaming
+      - item: Video Games
         link:
 
       - item: Soccer
@@ -51,145 +51,125 @@ career-profile:
       I want to help build and support the next great software company. 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+    - degree: BS in Management, concentration in Information Systems
+      university: University of Massachussetts 
+      time: 2002 - 2007
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Consultant
+      time: August 2018 - Present
+      company: Kovarus, San Ramon, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Kovarus is a IT systems integrator focus on application deplivery, cloud automation, and infrastructure optimization. 
+          
+          - Provide secure architecture review for client projects
+          - Create best practices and standards around securing CI/CD pipeline
+          - Help deliver IT solutions within a geographically seperated client team
 
-          - Bullet point
-          - Bullet point 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Production Operations Engineer
+      time: April 2017 - August 2018
+      company: IBM, Cambridge, MA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        IBM Resilient is a strategic business unit within the IBM security division that develops 
+        a world class cyber sercurity incident response platform.
+        
+        My work at IBM Resilient focused on helping automate and support their SAAS product offering.
 
-          - Bullet point
-          - Bullet point
+          - Architected and supported production deployment automation for our global SAAS environment
+          - Monitored and troubleshot issues in our global SAAS environment
+          - Supported our geographically dispersed internal engineering team and their development
+environments
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Infrastructure Security Engineer
+      time: April 2016 - April 2017
+      company: EIG/Constant Contact, Waltham, MA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        EIG is one of the worlds largest web hosting companies. They purchased Constant Contact in order
+        to provide a unified marking platform for small to medium businesses. 
+        
+        In this role, I helped support infrastructure security projects and directives. 
+        
+          - Supported incident response activities for the organization
+          - Wrote security policy, standards, and procedures for the organization 
+          - Worked as a SOC2 analyst by responding and remediating infrastucture security alarms and violations.
+          
+     - role: Senior Application Engineer
+      time: November 2013 - April 2016 
+      company: Constant Contact, Waltham, MA
+      details: |
+        Constant Contact is a leading small business email marketing platform. 
+        
+        I started as an Application Engineer and was promoted to a senior role within two years. My work
+        here focused on building automation to assist development teams with applicaiton delivery.
 
-          - Bullet point
-          - Bullet point
+          - Extended and supported continous deployment and integration piplelines
+          - Scheduled and deploy production code changes
+          - Troubleshot and resolved production site issues in a microservices architecture
+       
+     - role: Systems Engineer/IT Manager
+      time: August 2008 - November 2013 
+      company: Software Artisans/Riparian Data, Watertown, MA
+      details: |
+        SoftArtisans specializes in creating enterprise software libraries used to programatically
+        generate Microsoft Office files. Riparian Data was a startup division that focused on 
+        intelligently classifying email using a neural network.
+        
+        I started at SoftArtisans as a junior system administrator and worked my way up to a
+        systems engineer/IT manager.
+
+          - Supported Windows networking/server infrastructure and enterprise applications
+          - Drove internal company IT projects and technical decisions
+          - Supervised and mentored additional IT personnel
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    title: Key Projects
+    intro: > 
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: Terraform Disaster Recovery
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Developed Terraform automation to support a SAAS disaster recovery failover strategy from our colocation site to AWS at IBM."
 
-      - title: Tempo
+      - title: ElasticStack Cluster
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Architected and deployed an ElasticStack cluster that served as a centralized logging platform for our SAAS environment providing insight to operations and support staff at IBM."
 
-      - title: Atom
+      - title: ModSecurity Web Application Firewall
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Architected and deployed the ModSecurity open source web application firewall to replace our existing hardware solution saving money on hardware and support licensing at IBM."
 
-      - title: Delta
+      - title: Payment Card Industry Compliance 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Instrumental in supporting the efforts to achieve PCI compliance for our organization at Constant Contact."
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Scrum Master
+        link: "#"
+        tagline: "Lead the team in the key role as scrum master for our team during the adoption of agile principles for our operations department at Constant Contact."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Chef/Puppet/Terraform
+        level:
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Vagrant/Packer
+        level: 
 
-      - name: Angular
-        level: 98%
+      - name: Ruby/Python/Bash
+        level: 
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: ElasticStack/Splunk
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux
+        level: 
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Cloud 
+        level:
+        
+      - name: Networking 
+        level:
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+ 
