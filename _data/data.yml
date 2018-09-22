@@ -92,20 +92,20 @@ experiences:
           - Wrote security policy, standards, and procedures for the organization 
           - Worked as a SOC2 analyst by responding and remediating infrastucture security alarms and violations.
           
-     - role: Senior Application Engineer
-       time: November 2013 - April 2016 
-       company: Constant Contact, Waltham, MA
-       details: |
-         Constant Contact is a leading small business email marketing platform. 
+    - role: Senior Application Engineer
+      time: November 2013 - April 2016 
+      company: Constant Contact, Waltham, MA
+      details: |
+        Constant Contact is a leading small business email marketing platform. 
         
-         I started as an Application Engineer and was promoted to a senior role within two years. My work
-         here focused on building automation to assist development teams with applicaiton delivery.
+        I started as an Application Engineer and was promoted to a senior role within two years. My work
+        here focused on building automation to assist development teams with applicaiton delivery.
 
           - Extended and supported continous deployment and integration piplelines
           - Scheduled and deploy production code changes
           - Troubleshot and resolved production site issues in a microservices architecture
        
-     - role: Systems Engineer/IT Manager
+    - role: Systems Engineer/IT Manager
       time: August 2008 - November 2013 
       company: Software Artisans/Riparian Data, Watertown, MA
       details: |
