@@ -129,24 +129,24 @@ projects:
     intro: > 
     
     assignments:
-      - title: Terraform Disaster Recovery
-        link: "#"
+      - title: Terraform Disaster Recovery Project
+        link: ""
         tagline: "Developed Terraform automation to support a SAAS disaster recovery failover strategy from our colocation site to AWS at IBM."
 
-      - title: ElasticStack Cluster
-        link: "#"
+      - title: ElasticStack Cluster Project
+        link: ""
         tagline: "Architected and deployed an ElasticStack cluster that served as a centralized logging platform for our SAAS environment providing insight to operations and support staff at IBM."
 
-      - title: ModSecurity Web Application Firewall
-        link: "#"
+      - title: ModSecurity Web Application Firewall Project
+        link: ""
         tagline: "Architected and deployed the ModSecurity open source web application firewall to replace our existing hardware solution saving money on hardware and support licensing at IBM."
 
       - title: Payment Card Industry Compliance 
-        link: "#"
+        link: ""
         tagline: "Instrumental in supporting the efforts to achieve PCI compliance for our organization at Constant Contact."
 
-      - title: Scrum Master
-        link: "#"
+      - title: Scrum Master Role
+        link: ""
         tagline: "Lead the team in the key role as scrum master for our team during the adoption of agile principles for our operations department at Constant Contact."
 
 skills:
