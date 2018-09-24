@@ -8,7 +8,7 @@ baseurl: '/' #change it according to your repository name
 theme_skin: orange # blue turquoise green berry orange ceramic
 
 # Tracker
-analytics: 
+analytics: UA-126259027-1 
 
 # Sass/SCSS
 sass:
