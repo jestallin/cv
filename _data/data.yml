@@ -159,7 +159,7 @@ skills:
       - name: Vagrant/Packer
         level: 
 
-      - name: Ruby/Python/Bash
+      - name: Ruby/Python/Bash/Groovy
         level: 
 
       - name: ElasticStack/Splunk
@@ -171,10 +171,10 @@ skills:
       - name: Cloud
         level:
         
-      - name: Networking 
+      - name: Networking
         level:
         
-      - name: Virtualization/VMWare/Docker
+      - name: Virtualization/VMWare/Docker/Openstack/OKD/K8
 
 #footer: >
  
