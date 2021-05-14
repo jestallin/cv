@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: James Stallings
-    tagline: Systems Engineer
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -16,7 +16,7 @@ sidebar:
     phone: 
     website:  #do not add http://
     linkedin: jamesstallings
-    github:
+    github: jestallin
     gitlab:
     bitbucket:
     twitter: 
@@ -56,17 +56,17 @@ education:
       time: 2002 - 2007
 
 experiences:
-    - role: Consultant
-      time: August 2018 - Present
-      company: Kovarus, San Ramon, CA
+    - role: Software Engineer
+      time: Oct 2018 - Present
+      company: Constant Contact, Waltham, MA
       details: |
-        Kovarus is a IT systems integrator specializing in application delivery, cloud automation, and infrastructure optimization. 
+        Constant Contact is a leading small business marketing platform. 
         
-        My work as a consultant at Kovarus focused on helping deliver successful client projects.
+        My work at Constant Contact is focused on automating and supporting CI/CD orchestration and pipelines.
         
-          - Provide secure architecture review for client projects
-          - Create best practices and standards for securing a CI/CD pipeline
-          - Help deliver IT solutions within a geographically seperated client team
+          - Support multiple generations CD/CI pipelines written in Ruby, Python, and Groovy
+          - Support Jenkins infrastructure
+          - Troubleshoot and resolve production issues in a scaled microservices architecture
 
     - role: Production Operations Engineer
       time: April 2017 - August 2018
